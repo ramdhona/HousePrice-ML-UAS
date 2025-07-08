@@ -29,6 +29,8 @@ Proyek ini diselesaikan dengan langkah-langkah berikut:
 #### Bagan Alur Penyelesaian Proyek:
 
 ```
+![bagan ML drawio](https://github.com/user-attachments/assets/6d1745aa-b609-403f-ad67-9f7a887a6ed4)
+
 ```
 
 ## 2. Penjelasan Dataset, EDA, dan Proses Features Dataset
