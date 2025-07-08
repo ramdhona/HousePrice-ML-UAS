@@ -27,9 +27,7 @@ Proyek ini diselesaikan dengan langkah-langkah berikut:
 4. **Prediksi dan Visualisasi**: Menggunakan model untuk memprediksi harga rumah berdasarkan input dari pengguna dan menampilkan perbandingan antara harga aktual dan prediksi.
 
 #### Bagan Alur Penyelesaian Proyek:
-
-```
-```
+![bagan ML drawio](https://github.com/user-attachments/assets/0d0a4e4f-cecc-4c89-b4a9-86cd3fee7cf5)
 
 ## 2. Penjelasan Dataset, EDA, dan Proses Features Dataset
 
