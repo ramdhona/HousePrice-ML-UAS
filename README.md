@@ -4,8 +4,11 @@
 **Nama Proyek:** Prediksi Harga Rumah Menggunakan Model Kecerdasan Buatan (Artificial Neural Network)
 
 **Nama :** Dwi Ramdhona
+
 **NIM :** A11.2022.14033  
+
 **Mata Kuliah :** Pembelajaran Mesin
+
 **Kelompok :** A11.4406
 
 ## 1. Ringkasan dan Permasalahan Proyek
@@ -109,4 +112,3 @@ Setelah model selesai dilatih dan diuji, User dapat memasukkan spesifikasi rumah
 ---
 
 
-## tambahan
